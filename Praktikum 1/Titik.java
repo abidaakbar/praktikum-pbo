@@ -1,3 +1,10 @@
+/*
+Titik.java 22/03/2023
+Penulis : Abida Akbar Rusyadin
+Deskripsi : Kelas yang berisi 
+*/
+
+
 class Titik{
 
 	double absis;
