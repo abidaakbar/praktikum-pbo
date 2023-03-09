@@ -1,7 +1,7 @@
-/*
-MTitik.java 22/03/2023
-Penulis : Abida Akbar Rusyadin
-Deskripsi : Kelas yang berisi program utama yang memanfaatkan kelas Titik
+/**
+* MTitik.java 22/02/2023
+* Penulis : Abida Akbar Rusyadin
+* Deskripsi : Kelas MTitik
 */
 
 class MTitik{

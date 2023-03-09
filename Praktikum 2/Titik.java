@@ -6,8 +6,8 @@
 
 class Titik{
 
-	double absis;
-	double ordinat;
+	private double absis;
+	private double ordinat;
 	static int counterTitik;
 
 	Titik(){
@@ -16,23 +16,29 @@ class Titik{
 		counterTitik++;
 	}
 
-	void setAbsis(double a){
+	Titik(double a, double o){
+		absis = a;
+		ordinat = o;
+		counterTitik++;
+	}
+
+	public void setAbsis(double a){
 		absis=a;
 	}
 
-	void setOrdinat(double o){
+	public void setOrdinat(double o){
 		ordinat=o;
 	}
 
-	double getAbsis(){
+	public double getAbsis(){
 		return absis;
 	}
 
-	double getOrdinat(){
+	public double getOrdinat(){
 		return ordinat;
 	}
 
-	int getCounterTitik(){
+	static int getCounterTitik(){
 		return counterTitik;
 	}
 }
