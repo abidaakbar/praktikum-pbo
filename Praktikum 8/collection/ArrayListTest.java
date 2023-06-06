@@ -1,5 +1,6 @@
 /**
  * File : ArrayListTest.java
+ * Penulis : Abida Akbar Rusyadin
  * Deskripsi : program penggunaan objek ArrayList sebagai Collection class
  */
 

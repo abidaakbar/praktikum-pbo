@@ -1,5 +1,6 @@
 /**
  * File : MapTest.java
+ * Penulis : Abida Akbar Rusyadin
  * Deskripsi : Program yang menggunakan Generic untuk pasangan Kunci_Nilai
  */
 

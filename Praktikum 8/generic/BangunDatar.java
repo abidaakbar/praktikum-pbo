@@ -1,6 +1,7 @@
 /**
-*File : BangunDatar.java
-*Deskripsi : kelas abstrak untuk bangun datar
+* File : BangunDatar.java
+* Penulis : Abida Akbar Rusyadin
+* Deskripsi : kelas abstrak untuk bangun datar
 */
 
 public abstract class BangunDatar{

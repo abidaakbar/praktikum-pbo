@@ -1,6 +1,7 @@
 /**
-*File : Lingkaran.java
-*Deskripsi : implementasi Lingkaran sebagai BangunDatar
+* File : Lingkaran.java
+* Penulis : Abida Akbar Rusyadin
+* Deskripsi : implementasi Lingkaran sebagai BangunDatar
 */
 
 public class Lingkaran extends BangunDatar {

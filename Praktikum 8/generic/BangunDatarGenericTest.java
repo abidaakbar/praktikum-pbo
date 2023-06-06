@@ -1,6 +1,7 @@
 /**
-*File : BangunDatarGenericTest.java
-*Deskripsi : main class untuk generic bangun datar
+* File : BangunDatarGenericTest.java
+* Penulis : Abida Akbar Rusyadin
+* Deskripsi : main class untuk generic bangun datar
 */
 
 public class BangunDatarGenericTest {
